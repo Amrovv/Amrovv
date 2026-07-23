@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Adam
 
-<!--
-**Amrovv/Amrovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Warwick. I build in **Python** and
+**Haskell** — AI game players and chatbots, data visualisation, and web apps —
+and I'm currently working through machine learning fundamentals.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI & Haskell**
+- [Backwords](https://github.com/Amrovv/ai-scrabble-player) — Scrabble-style word
+  game with a Monte Carlo AI player that averages ~2600 points over 50 games.
+- [LambdaTrader](https://github.com/Amrovv/ai-stock-assistant) — terminal chatbot
+  that parses plain-English requests (megaparsec) into typed commands against
+  live stock-market data, with a persistent virtual portfolio.
+
+**Python**
+- [Celestial Mechanics Simulator](https://github.com/Amrovv/interactive-celestial-mechanics-simulator)
+  — interactive 2D/3D solar-system simulator computed analytically from orbital
+  mechanics; **Gold**, British Physics Olympiad Computational Challenge 2023.
+- [NDLmini Proof Checker](https://github.com/Amrovv/ndlmini-proof-checker) — a
+  pushdown automaton that formally verifies natural-deduction proofs written in
+  a small custom logic language.
+- [Bill Splitter](https://github.com/Amrovv/bill-splitter) — Flask app for
+  housemates to split bills exactly and track debts; tested on three OSes in CI,
+  ships with Docker.
+
+**Team**
+- [FactOrFake](https://github.com/ThouArtFish/FactOrFake) — hackathon browser
+  extension that rates news-article credibility. I designed and built the scoring
+  algorithm (sentence-level zero-shot evidence classification + sentiment analysis).
+
+## Tools I use
+
+Git & GitHub Actions · Docker · Flask · pytest · SQLite · Linux
+
+## Contact
+
+[LinkedIn]([your-linkedin-url]) · [email — include? which address?]
