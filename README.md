@@ -31,7 +31,7 @@ and I'm currently working through machine learning fundamentals.
 
 ## Tools I use
 
-Git & GitHub Actions · Docker · Flask · pytest · SQLite · Linux
+Git & GitHub Actions · Docker · Flask · pytest · SQLite 
 
 ## Contact
 
