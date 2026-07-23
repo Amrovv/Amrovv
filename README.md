@@ -8,7 +8,7 @@ and I'm currently working through machine learning fundamentals.
 
 **AI & Haskell**
 - [Backwords](https://github.com/Amrovv/ai-scrabble-player) — Scrabble-style word
-  game with a Monte Carlo AI player that averages ~2600 points over 50 games.
+  game with an AI Player based on the Monte Carlo method.
 - [LambdaTrader](https://github.com/Amrovv/ai-stock-assistant) — terminal chatbot
   that parses plain-English requests (megaparsec) into typed commands against
   live stock-market data, with a persistent virtual portfolio.
@@ -35,4 +35,4 @@ Git & GitHub Actions · Docker · Flask · pytest · SQLite · Linux
 
 ## Contact
 
-[LinkedIn]([your-linkedin-url]) · [email — include? which address?]
+[LinkedIn]([https://www.linkedin.com/in/adam-wasiak-741957331/]) · [email — adamwasiak55@gmail.com]
