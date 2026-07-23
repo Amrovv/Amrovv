@@ -35,4 +35,4 @@ Git & GitHub Actions · Docker · Flask · pytest · SQLite · Linux
 
 ## Contact
 
-[LinkedIn]([https://www.linkedin.com/in/adam-wasiak-741957331/])] · [email — adamwasiak55@gmail.com]
+[LinkedIn](https://www.linkedin.com/in/adam-wasiak-741957331/) · adamwasiak55@gmail.com
