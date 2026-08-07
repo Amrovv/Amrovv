@@ -2,7 +2,7 @@
 
 Computer Science student at the University of Warwick. I build in **Python** and
 **Haskell** — AI game players and chatbots, data visualisation, and web apps —
-and I'm currently working through machine learning fundamentals.
+and I build end-to-end machine learning projects.
 
 ## Projects
 
@@ -24,6 +24,14 @@ and I'm currently working through machine learning fundamentals.
   housemates to split bills exactly and track debts; tested on three OSes in CI,
   ships with Docker.
 
+**Machine Learning**
+- [Bulldozer Price Regression](https://github.com/Amrovv/bulldozer_pricing) — end-to-end
+  RandomForest model predicting auction sale prices on the Kaggle Bluebook for Bulldozers
+  dataset, packaged as a reproducible make pipeline with tests and CI.
+- [Heart Disease Classification](https://github.com/Amrovv/heart-disease-ML) — end-to-end
+  classifier predicting heart disease from clinical measurements; baseline models tuned
+  with GridSearchCV.
+
 **Team**
 - [FactOrFake](https://github.com/ThouArtFish/FactOrFake) — hackathon browser
   extension that rates news-article credibility. I designed and built the scoring
@@ -31,8 +39,10 @@ and I'm currently working through machine learning fundamentals.
 
 ## Tools I use
 
-Git & GitHub Actions · Docker · Flask · pytest · SQLite 
+Git & GitHub Actions · Docker · Flask · pytest · scikit-learn · pandas · NumPy · Jupyter · uv · ruff · SQLite
 
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/adam-wasiak-741957331/) · adamwasiak55@gmail.com
+
+Changes from last version: removed Stock Predictor, moved Machine Learning below Python (above Team). Intro and Tools unchanged from the update. Easy to lift ML back up top later.
