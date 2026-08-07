@@ -1,8 +1,8 @@
 # Hi, I'm Adam
 
 Computer Science student at the University of Warwick. I build in **Python** and
-**Haskell** — AI game players and chatbots, data visualisation, and web apps —
-and I build end-to-end machine learning projects.
+**Haskell** - AI game players and chatbots, data visualisation, and web apps,
+and I'm learning machine learning by working through projects end-to-end.
 
 ## Projects
 
