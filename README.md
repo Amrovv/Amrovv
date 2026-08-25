@@ -15,7 +15,7 @@ and I'm learning machine learning by working through projects end-to-end.
 
 **Python**
 - [Celestial Mechanics Simulator](https://github.com/Amrovv/interactive-celestial-mechanics-simulator)
-  — interactive 2D/3D solar-system simulator computed analytically from orbital
+  - interactive 2D/3D solar-system simulator computed analytically from orbital
   mechanics; **Gold**, British Physics Olympiad Computational Challenge 2023.
 - [NDLmini Proof Checker](https://github.com/Amrovv/ndlmini-proof-checker) — a
   pushdown automaton that formally verifies natural-deduction proofs written in
