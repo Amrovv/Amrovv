@@ -44,5 +44,3 @@ Git & GitHub Actions · Docker · Flask · pytest · scikit-learn · pandas · N
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/adam-wasiak-741957331/) · adamwasiak55@gmail.com
-
-Changes from last version: removed Stock Predictor, moved Machine Learning below Python (above Team). Intro and Tools unchanged from the update. Easy to lift ML back up top later.
