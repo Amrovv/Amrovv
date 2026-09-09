@@ -11,12 +11,7 @@ I'm a Computer Science student at the University of Warwick. I build in Python a
   next-session stock returns, reaching a statistically significant holdout edge (AUC
   0.619, p=0.0019) across four tickers. Full text and market pipelines, walk-forward
   evaluation, CI, tests, live Streamlit demo.
-- [Bulldozer Price Regression](https://github.com/Amrovv/bulldozer_pricing) - end-to-end
-  RandomForest model predicting auction sale prices on the Kaggle Bluebook for Bulldozers
-  dataset, packaged as a reproducible make pipeline with tests and CI.
-- [Heart Disease Classification](https://github.com/Amrovv/heart-disease-ML) - end-to-end
-  classifier predicting heart disease from clinical measurements; baseline models tuned
-  with GridSearchCV.
+
 
 **AI & Haskell**
 - [Backwords](https://github.com/Amrovv/ai-scrabble-player) - Scrabble-style word
