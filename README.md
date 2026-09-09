@@ -33,10 +33,10 @@ Computer Science student at the University of Warwick. I build in Python and Has
   pushdown automaton that formally verifies natural-deduction proofs written in
   a small custom logic language.
 
-**Full-stack web apps**
+**Full-stack web apps (Flask, SQL, JavaScript, HTML/CSS)**
 - [Bill Splitter](https://github.com/Amrovv/bill-splitter) - Flask app for
-  housemates to split bills exactly and track debts, built with Flask, SQL,
-  JavaScript, and HTML/CSS; tested on three OSes in CI, ships with Docker.
+  housemates to split bills exactly and track debts; tested on three OSes in CI,
+  ships with Docker.
 
 **Team**
 - [FactOrFake](https://github.com/ThouArtFish/FactOrFake) - hackathon browser
