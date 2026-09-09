@@ -32,9 +32,11 @@ Computer Science student at the University of Warwick. I build in Python and Has
 - [NDLmini Proof Checker](https://github.com/Amrovv/ndlmini-proof-checker) - a
   pushdown automaton that formally verifies natural-deduction proofs written in
   a small custom logic language.
+
+**Full-stack web apps**
 - [Bill Splitter](https://github.com/Amrovv/bill-splitter) - Flask app for
-  housemates to split bills exactly and track debts; tested on three OSes in CI,
-  ships with Docker.
+  housemates to split bills exactly and track debts, built with Flask, SQL,
+  JavaScript, and HTML/CSS; tested on three OSes in CI, ships with Docker.
 
 **Team**
 - [FactOrFake](https://github.com/ThouArtFish/FactOrFake) - hackathon browser
@@ -43,7 +45,11 @@ Computer Science student at the University of Warwick. I build in Python and Has
 
 ## Currently working on
 
-- match3ed
+### Java
+
+- [Match3D](https://github.com/Amrovv/match3d) - a concurrent, skill-based
+  matchmaking engine that balances lobby quality against queue time, with a
+  standalone core designed to sit between message-queue services.
 
 ## Tools I use
 
