@@ -1,6 +1,6 @@
 # Hi, I'm Adam
 
-Computer Science student at the University of Warwick. I build in Python and Haskell, AI game players and chatbots, data visualisation, and machine learning pipelines end to end, from data collection through to a tuned, evaluated model.
+Computer Science student at the University of Warwick. I build in Python and Haskell, AI game players and chatbots, data visualisation, and machine learning pipelines end to end, from data collecti[...]
 
 ## Projects
 
@@ -40,6 +40,10 @@ Computer Science student at the University of Warwick. I build in Python and Has
 - [FactOrFake](https://github.com/ThouArtFish/FactOrFake) - hackathon browser
   extension that rates news-article credibility. I designed and built the scoring
   algorithm (sentence-level zero-shot evidence classification + sentiment analysis).
+
+## Currently working on
+
+- match3ed
 
 ## Tools I use
 
