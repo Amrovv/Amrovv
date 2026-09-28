@@ -48,5 +48,3 @@ I'm a Computer Science student at the University of Warwick. I build in Java, Py
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/adam-wasiak-741957331/) · adamwasiak55@gmail.com
-
-The Match3D entry is longer than the others on purpose, because it's your strongest backend project. If it feels too heavy, cut the sentand on Docker images published from CI first.
