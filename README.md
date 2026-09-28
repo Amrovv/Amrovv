@@ -1,55 +1,52 @@
 # Hi, I'm Adam
 
-I'm a Computer Science student at the University of Warwick. I build in Python and Haskell, AI game players and chatbots, data visualisation, and machine learning pipelines end to end, from data collecti[...]
+I'm a Computer Science student at the University of Warwick. I build in Java, Python and Haskell: distributed backend systems, AI game players and chatbots, data visualisation, and machine learning pipelines end to end, from data collection to deployment.
 
 ## Projects
 
+**Distributed Systems (Java)**
+- [Match3D](https://github.com/Amrovv/match3d) - a concurrent, skill-based
+  matchmaking engine built as a distributed system: two Spring Boot services
+  over RabbitMQ, with parallel intake across a three node Kubernetes cluster.
+  A skip-list skill index and fairness heap trade match quality against queue
+  time, and a copy killed under load loses no player.
+
 **Machine Learning**
-- [News Sentiment Signal](https://github.com/Amrovv/news-sentiment-signal) - end-to-end
+- [News Sentiment Signal](https://gnt-signal) - end-to-end
   ML pipeline scoring entity-scoped financial news sentiment (FinBERT, ABSA, neural
   coreference, LLM referent verification) and training a LightGBM classifier against
-  next-session stock returns, reaching a statistically significant holdout edge (AUC
+  next-session stock returns, reachnt holdout edge (AUC
   0.619, p=0.0019) across four tickers. Full text and market pipelines, walk-forward
   evaluation, CI, tests, live Streamlit demo.
-
 
 **AI & Haskell**
 - [Backwords](https://github.com/Amrovv/ai-scrabble-player) - Scrabble-style word
   game with an AI Player based on the Monte Carlo method.
-- [LambdaTrader](https://github.com/Amrovv/ai-stock-assistant) -  terminal chatbot
+- [LambdaTrader](https://github.com/Amrovv/ai-stock-assistant) - terminal chatbot
   that parses plain-English requests (megaparsec) into typed commands against
-  live stock-market data, with a persistent virtual portfolio.
+  live stock-market data, with a pe
 
 **Python**
 - [Celestial Mechanics Simulator](https://github.com/Amrovv/interactive-celestial-mechanics-simulator) -
   interactive 2D/3D solar-system simulator computed analytically from orbital
   mechanics; **Gold**, British Physics Olympiad Computational Challenge 2023.
 - [NDLmini Proof Checker](https://github.com/Amrovv/ndlmini-proof-checker) - a
-  pushdown automaton that formally verifies natural-deduction proofs written in
+  pushdown automaton that formally oofs written in
   a small custom logic language.
 
-**Full-stack web apps (Flask, SQL, JavaScript, HTML/CSS)**
+**Full-stack web apps (Flask, SQL,
 - [Bill Splitter](https://github.com/Amrovv/bill-splitter) - Flask app for
-  housemates to split bills exactly and track debts; tested on three OSes in CI,
-  ships with Docker.
+  housemates to split bills exactly and track debts; tested on three OSes in CI,                       ships with Docker.
 
 **Team**
 - [FactOrFake](https://github.com/ThouArtFish/FactOrFake) - hackathon browser
   extension that rates news-article credibility. I designed and built the scoring
   algorithm (sentence-level zero-shot evidence classification + sentiment analysis).
 
-## Currently working on
-
-### Java
-
-- [Match3D](https://github.com/Amrovv/match3d) - a concurrent, skill-based
-  matchmaking engine that balances lobby quality against queue time, with a
-  standalone core designed to sit between message-queue services.
-
 ## Tools I use
-
-Git & GitHub Actions · Docker · Flask · pytest · scikit-learn · pandas · NumPy · Jupyter · uv · ruff · SQLite
-
+                                                                                                     Java · Spring Boot · RabbitMQ · Posbernetes · Git & GitHub Actions ·Flask · pytest · scikit-learn · pandas · NumPy · Jupyter · uv · ruff · SQLite                       
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/adam-wasiak-741957331/) · adamwasiak55@gmail.com
+
+The Match3D entry is longer than the others on purpose, because it's your strongest backend project. If it feels too heavy, cut the sentand on Docker images published from CI first.
