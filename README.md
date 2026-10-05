@@ -35,9 +35,7 @@ I'm a Computer Science student at the University of Warwick. I build in Java, Py
   a small custom logic language.
 
 **Full-stack web apps (Flask, SQL, JavaScript, HTML/CSS)**
-- [Bill Splitter](https://github.com/Amrovv/bill-splitter) - Flask app for
-  housemates to split bills exactlyhree OSes in CI,
-  ships with Docker.
+- [Bill Splitter](https://github.com/Amrovv/bill-splitter) - Full-stack Flask web app for housemates to track shared bills and settle debts, with payment approvals and email notifications. CI across three OSes, ships with Docker
 
 **Team**
 - [FactOrFake](https://github.com/ThouArtFish/FactOrFake) - hackathon browser
