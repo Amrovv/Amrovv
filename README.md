@@ -38,6 +38,11 @@ I'm a Computer Science student at the University of Warwick. I build in Java, Py
 - [Bill Splitter](https://github.com/Amrovv/bill-splitter) - Full-stack Flask web app for housemates to track shared bills and settle debts, with payment approvals and email notifications. CI across three OSes, ships with Docker
 
 **Team**
+- [Chalkbot](https://github.com/Amrovv/WHACK-IO-26) - real-time AI bouldering
+  coach (24-hour hackathon, incident.io). Watches a climber through one camera and
+  speaks technique cues mid-climb, 47 ms from frame to audio device. I built the
+  coach brain: technique detectors and a speech arbiter deciding what to say and when.
+  
 - [FactOrFake](https://github.com/ThouArtFish/FactOrFake) - hackathon browser
   extension that rates news-article credibility. I designed and built the scoring
   algorithm (sentence-level zero-shot evidence classification + sentiment analysis).
